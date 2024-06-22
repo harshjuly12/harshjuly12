@@ -2,7 +2,7 @@
 <img align="right" src="![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+there!+👋🏻;+I'm+Harsh+Singh+👨🏽‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+there!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" />
 </h1>
 
 <h3 align="center">🚀A little bit about me:</h3>
