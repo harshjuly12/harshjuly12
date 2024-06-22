@@ -7,8 +7,6 @@
 
 <h3 align="center">🚀A little bit about me:</h3>
 
-<br/>
-
 <div align="center">
  
 🔭 A tech geek and an avid speaker, I try to give **my full potential to do my best to accomplish it**.
@@ -18,6 +16,8 @@
 💬 I'm **moldable**, but I still keep my **creative flare intact**.
 
 💡 Feel free to reach out to me at: 
+
+<br>
 
  </div>
  
