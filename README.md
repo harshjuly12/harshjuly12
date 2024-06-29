@@ -5,11 +5,11 @@
 
 <h1 align="center">
 
-<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/e488450b-2f14-4e2d-872a-bf7042301d8e" width="200">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/dcce0528-27b5-4618-b6aa-d0166cfc6355" width="200">
     
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+there!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" /> 
 
-<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/538b2d16-a38d-4c8d-a538-465422a8eaba" width="200">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b528a544-3e06-4195-b722-4b7caa4d943d" width="200">
 
 </h1>
 
