@@ -1,8 +1,16 @@
-![Uploading wallpapersden.com_-bit-programmer-4k-pixel-art_1600x900.jpg…]()
+
+![9bc27292880429 5e569ff84e4d0](https://github.com/harshjuly12/harshjuly12/assets/112745312/83141064-41e9-4a1b-8b8b-e7df314ccd87)
+
 <img align="right" src="![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+there!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" />
+
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/e488450b-2f14-4e2d-872a-bf7042301d8e" width="200">
+    
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+there!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" /> 
+
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/538b2d16-a38d-4c8d-a538-465422a8eaba" width="200">
+
 </h1>
 
 <h3 align="center">🚀A little bit about me:</h3>
