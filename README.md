@@ -1,12 +1,14 @@
 ![8lgj03uytj5a1](https://github.com/harshjuly12/harshjuly12/assets/112745312/3f1e4f89-a06f-4ee0-bbfb-9d212391acef)
 
-<img align="right" src="![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)" />
+<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A">
 
 <h1 align="center">
 
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
     
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=90&duration=3000&color=ffffff&lines=Hey+there+folks!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" />
+
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/1e60f7b8-b2d7-4731-8ed7-6a19a07b554e" width="1000000000000000000000000000000000000000000000000000000000000000000000000000">
 
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
 
@@ -21,14 +23,16 @@
 
 <div align="center">
  
-<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8fc5217a-8bd6-46cf-921d-42370f76f99b" width="25"> **A tech geek and an avid speaker, I try to give my full potential to do my best to accomplish it** <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b399542a-4c1f-4ead-9cd4-8650efa5ee1a" width="70">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8fc5217a-8bd6-46cf-921d-42370f76f99b" width="30"> **A tech geek and an avid speaker, I try to give my full potential to do my best to accomplish it** <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b399542a-4c1f-4ead-9cd4-8650efa5ee1a" width="70">
 
  
-🌱 I am currently dipping my toes into the world of **XAI and Quantum Computing**.
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/42da6116-9a86-46a3-8af1-5701bb2f7dd8" width="30"> **I am currently dipping my toes into the world of XAI and Quantum Computing**
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b9c7176f-0ea7-4b60-bc94-d3b9c371df7f" width="70">
 
-💬 I'm **moldable**, but I still keep my **creative flare intact**.
 
-💡 Feel free to reach out to me at: 
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/1e60f7b8-b2d7-4731-8ed7-6a19a07b554e" width="1000000000000000000000000000000000000000000000000000000000000000000000000000">**I'm **moldable**, but I still keep my creative flare intact**.
+
+💡 **Feel free to reach out to me at:** 
 
 <br>
 
