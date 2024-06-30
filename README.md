@@ -1,23 +1,28 @@
-
-![9bc27292880429 5e569ff84e4d0](https://github.com/harshjuly12/harshjuly12/assets/112745312/83141064-41e9-4a1b-8b8b-e7df314ccd87)
+![8lgj03uytj5a1](https://github.com/harshjuly12/harshjuly12/assets/112745312/3f1e4f89-a06f-4ee0-bbfb-9d212391acef)
 
 <img align="right" src="![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)" />
 
 <h1 align="center">
 
-<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/dcce0528-27b5-4618-b6aa-d0166cfc6355" width="100">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
     
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+there!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" /> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=90&duration=3000&color=ffffff&lines=Hey+there+folks!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" />
 
-<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b528a544-3e06-4195-b722-4b7caa4d943d" width="100">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
 
 </h1>
 
-<h3 align="center">🚀A little bit about me:</h3>
+<h3 align="center">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/a901a04b-1104-4e29-b022-bbaaf69453a2" width="50">
+    A Peek Into My World 
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/a901a04b-1104-4e29-b022-bbaaf69453a2" width="50">
+</h3>
+
 
 <div align="center">
  
-🔭 A tech geek and an avid speaker, I try to give **my full potential to do my best to accomplish it**.
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8fc5217a-8bd6-46cf-921d-42370f76f99b" width="25"> **A tech geek and an avid speaker, I try to give my full potential to do my best to accomplish it** <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b399542a-4c1f-4ead-9cd4-8650efa5ee1a" width="70">
+
  
 🌱 I am currently dipping my toes into the world of **XAI and Quantum Computing**.
 
