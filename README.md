@@ -67,17 +67,15 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2>🐍 My Contributions 🐉</h2>
     
-![snake gif](https://github.com/harshjuly12/harshjuly12/blob/output/github-contribution-grid-snake.gif)
+![github-contribution-grid-snake-dark (1)](https://github.com/harshjuly12/harshjuly12/assets/112745312/2ad26288-30c8-46a0-9224-639f847b9dc9)
 
-  <br/><br/><br/>
 </div>
 
 <hr/>
 
-<h2 align="center"> 📊 GitHub Stats 📊 </h2>
+<h2 align="center"> 📊 GitHub Stats 🎰 </h2>
 <br>
 <div align=center>
   <br>
@@ -85,6 +83,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjuly12&theme=react&show_icons=true&hide_border=true&layout=compact" alt="harshjuly12's Top Languages" width="400">
     <br/>
+    
 </div>
 
 <br/><br/>
@@ -94,7 +93,14 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/harshjuly12' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    
+![darth](https://github.com/harshjuly12/harshjuly12/assets/112745312/670688dc-7750-4e61-a00a-88b9c8c9c64f)  
+
+<a href='https://ko-fi.com/harshjuly12' target='_blank'><img height='64' style='border:0;height:64;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+![91s8b8wgtn7d1](https://github.com/harshjuly12/harshjuly12/assets/112745312/607a67a5-7e24-4c5e-ab2e-cdc3be7c3bc4) ![download (1)](https://github.com/harshjuly12/harshjuly12/assets/112745312/acfd02ee-299a-4f74-8e4b-d5844c816aa9)
+<br>
+![a-minor-kdot](https://github.com/harshjuly12/harshjuly12/assets/112745312/e766e048-2b9c-45ad-92c5-ca863ce0f58a)
 </div>
 
 <br/>
