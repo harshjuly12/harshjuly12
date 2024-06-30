@@ -20,11 +20,11 @@
 
 <div align="center">
  
-<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8fc5217a-8bd6-46cf-921d-42370f76f99b" width="30"> **A tech geek and an avid speaker, I try to give my full potential to do my best to accomplish it** <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b399542a-4c1f-4ead-9cd4-8650efa5ee1a" width="70">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8fc5217a-8bd6-46cf-921d-42370f76f99b" width="30"> **A tech geek and an avid speaker, I strive to give my full potential to accomplish my goals** <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b399542a-4c1f-4ead-9cd4-8650efa5ee1a" width="70">
 
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/42da6116-9a86-46a3-8af1-5701bb2f7dd8" width="30"> **I am currently dipping my toes into the world of XAI and Quantum Computing**<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b9c7176f-0ea7-4b60-bc94-d3b9c371df7f" width="70">
 
-<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8052930e-acd0-409d-b4d6-9a3fce3e2d6f" width="40"> **I'm moldable, but I still keep my creative flare intact** <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/6fdbe493-f1e9-4fdd-9fda-96b69b1d7c6a" width="40">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8052930e-acd0-409d-b4d6-9a3fce3e2d6f" width="40"> **I'm moldable, but I still keep my creative flair intact** <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/6fdbe493-f1e9-4fdd-9fda-96b69b1d7c6a" width="40">
 
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/6e8ab79c-5468-4d75-b4e6-9f814669e1be" width="40"> **Feel free to reach out to me!**<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/4bcca578-2972-40e1-bacb-86a8dabf8dea" width="30">
 
