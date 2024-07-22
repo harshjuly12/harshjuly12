@@ -28,7 +28,6 @@
 
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/6e8ab79c-5468-4d75-b4e6-9f814669e1be" width="40"> **Feel free to reach out to me!**<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/4bcca578-2972-40e1-bacb-86a8dabf8dea" width="30">
 
-
 <br>
 
  </div>
