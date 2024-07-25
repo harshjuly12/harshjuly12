@@ -1,7 +1,7 @@
 ![8lgj03uytj5a1](https://github.com/harshjuly12/harshjuly12/assets/112745312/3f1e4f89-a06f-4ee0-bbfb-9d212391acef)
 
 <h1 align="center">
-
+    
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
     
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=90&duration=5000&color=ffffff&lines=Hey+there!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" />
