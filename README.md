@@ -75,16 +75,11 @@
 <h2 align="center"> 📊 GitHub Stats 🎰 </h2>
 <br>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjuly12&theme=react&hide_border=true" alt="harshjuly12's GitHub Streak" width="390">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjuly12&theme=react&show_icons=true&hide_border=true&layout=compact" alt="harshjuly12's Top Languages" width="390">
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshjuly12&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="harshjuly12's Stats" width="390">
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjuly12&theme=vision-friendly-dark&hide_border=true" alt="harshjuly12's Streak" width="390">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjuly12&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="harshjuly12's Top Languages" width="390">
 </div>
 
 
