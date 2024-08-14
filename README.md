@@ -4,7 +4,7 @@
     
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
     
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=90&duration=5000&color=ffffff&lines=Hey+there!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=90&duration=5000&color=ffffff&lines=Hey+there!!+👋🏻;+I'm+Harsh+Kumar+Singh+👨🏽‍💻;" />
 
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
 
@@ -54,7 +54,7 @@
 
  <hr/>
  
-<h2 align="center">💻 Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
@@ -65,13 +65,14 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐉</h2>
+    
+  <h2>🐍 My Contributions 🐍</h2>
     
 ![github-contribution-grid-snake-dark (1)](https://github.com/harshjuly12/harshjuly12/assets/112745312/2ad26288-30c8-46a0-9224-639f847b9dc9)
 
 </div>
 
-<h2 align="center"> 📊 GitHub Stats 🎰 </h2>
+<h2 align="center"> 📊 GitHub Stats 📊 </h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshjuly12&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="harshjuly12's Stats" width="390">
@@ -89,7 +90,7 @@
 
 <div align="center">
     
-![darth](https://github.com/harshjuly12/harshjuly12/assets/112745312/670688dc-7750-4e61-a00a-88b9c8c9c64f)  
+![darth](https://github.com/harshjuly12/harshjuly12/assets/112745312/670688dc-7750-4e61-a00a-88b9c8c9c64f)
 
 <a href='https://ko-fi.com/harshjuly12' target='_blank'><img height='64' style='border:0;height:64;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
