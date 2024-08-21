@@ -1,6 +1,6 @@
 ![8lgj03uytj5a1](https://github.com/harshjuly12/harshjuly12/assets/112745312/3f1e4f89-a06f-4ee0-bbfb-9d212391acef)
 
-<h1 align="center">
+<h1 align="center"> 
     
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
     
