@@ -1,6 +1,6 @@
 ![8lgj03uytj5a1](https://github.com/harshjuly12/harshjuly12/assets/112745312/3f1e4f89-a06f-4ee0-bbfb-9d212391acef)
 
-<h1 align="center"> 
+<h1 align="center">
     
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/8e631dd7-6a31-4055-87e1-0a6308b43970" width="100">
     
@@ -75,10 +75,13 @@
 <h2 align="center"> 📊 GitHub Stats 📊 </h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjuly12&theme=vision-friendly-dark&hide_border=true" alt="harshjuly12's Streak" width="390">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjuly12&theme=dark&hide_border=false" alt="harshjuly12's Streak" width="390">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjuly12&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="harshjuly12's Top Languages" width="390">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshjuly12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="harshjuly12's GitHub Stats" width="390">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjuly12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="harshjuly12's Top Languages" width="390">
 </div>
+
 
 <br/><br/>
 
