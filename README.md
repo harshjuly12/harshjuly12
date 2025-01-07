@@ -75,8 +75,6 @@
 <h2 align="center"> 📊 GitHub Stats 📊 </h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjuly12&theme=dark&hide_border=false" alt="harshjuly12's Streak" width="390">
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=harshjuly12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="harshjuly12's GitHub Stats" width="390">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjuly12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="harshjuly12's Top Languages" width="390">
@@ -95,9 +93,9 @@
 
 <a href='https://ko-fi.com/harshjuly12' target='_blank'><img height='64' style='border:0;height:64;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-![91s8b8wgtn7d1](https://github.com/harshjuly12/harshjuly12/assets/112745312/607a67a5-7e24-4c5e-ab2e-cdc3be7c3bc4) ![download (1)](https://github.com/harshjuly12/harshjuly12/assets/112745312/acfd02ee-299a-4f74-8e4b-d5844c816aa9)
+![1520126834816](https://github.com/user-attachments/assets/840dff28-96d8-4548-882b-57c14ae1e714)
+
 <br>
-![a-minor-kdot](https://github.com/harshjuly12/harshjuly12/assets/112745312/e766e048-2b9c-45ad-92c5-ca863ce0f58a)
 </div>
 
 <br/>
